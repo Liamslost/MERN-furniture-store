@@ -1,0 +1,8000 @@
+[{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d101"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1200,
+  "height": 1382,
+  "depth": 1134,
+  "price": 84.19,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d148"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d102"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2073,
+  "height": 1201,
+  "depth": 915,
+  "price": 212.91,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1be"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d103"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1396,
+  "height": 1392,
+  "depth": 1116,
+  "price": 81.38,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d193"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d104"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1743,
+  "height": 1801,
+  "depth": 1851,
+  "price": 21.89,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2f3"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d105"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1185,
+  "height": 1977,
+  "depth": 1331,
+  "price": 25.56,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d220"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d106"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 840,
+  "height": 1979,
+  "depth": 1376,
+  "price": 45.09,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c1"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d107"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1640,
+  "height": 1052,
+  "depth": 830,
+  "price": 52.25,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17c"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d108"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1729,
+  "height": 1481,
+  "depth": 819,
+  "price": 155.98,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d207"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d109"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1020,
+  "height": 1358,
+  "depth": 858,
+  "price": 224.22,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a9"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10a"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1275,
+  "height": 1845,
+  "depth": 1178,
+  "price": 97.77,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d165"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10b"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1811,
+  "height": 1809,
+  "depth": 1847,
+  "price": 73.09,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b5"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10c"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1369,
+  "height": 1898,
+  "depth": 1579,
+  "price": 124.05,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f5"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10d"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1481,
+  "height": 996,
+  "depth": 946,
+  "price": 24.33,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d235"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10e"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1532,
+  "height": 1756,
+  "depth": 2069,
+  "price": 29.63,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d262"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d10f"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1549,
+  "height": 1906,
+  "depth": 1693,
+  "price": 238.27,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16a"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d110"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1912,
+  "height": 1438,
+  "depth": 1228,
+  "price": 56.26,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d182"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d111"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1727,
+  "height": 2121,
+  "depth": 1504,
+  "price": 228.37,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f6"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d112"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1222,
+  "height": 1356,
+  "depth": 1468,
+  "price": 64.94,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1dc"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d113"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 894,
+  "height": 1032,
+  "depth": 859,
+  "price": 52.32,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b4"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d114"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 870,
+  "height": 862,
+  "depth": 1661,
+  "price": 232.18,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d13c"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d115"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 2025,
+  "height": 1995,
+  "depth": 1665,
+  "price": 194.5,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18f"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d116"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 940,
+  "height": 1431,
+  "depth": 2185,
+  "price": 129.73,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ca"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d117"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2052,
+  "height": 1187,
+  "depth": 1490,
+  "price": 200.78,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d193"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d118"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2082,
+  "height": 1656,
+  "depth": 1035,
+  "price": 105.69,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b5"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d119"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1951,
+  "height": 1734,
+  "depth": 1776,
+  "price": 97.75,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c5"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11a"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1945,
+  "height": 1177,
+  "depth": 2004,
+  "price": 59.02,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d2"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11b"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1426,
+  "height": 1318,
+  "depth": 1607,
+  "price": 66.87,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d27d"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11c"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2195,
+  "height": 1213,
+  "depth": 1717,
+  "price": 202.3,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a0"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11d"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 966,
+  "height": 1281,
+  "depth": 1878,
+  "price": 148.13,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23d"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11e"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 818,
+  "height": 1817,
+  "depth": 1518,
+  "price": 218.46,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d152"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d11f"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1723,
+  "height": 1719,
+  "depth": 1480,
+  "price": 78.76,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d291"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d120"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1223,
+  "height": 2140,
+  "depth": 1589,
+  "price": 78.5,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e9"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d121"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1864,
+  "height": 1381,
+  "depth": 1414,
+  "price": 214.61,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d235"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d122"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1184,
+  "height": 1100,
+  "depth": 1769,
+  "price": 213.91,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ed"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d123"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1308,
+  "height": 915,
+  "depth": 1929,
+  "price": 157.3,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d29d"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d124"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1565,
+  "height": 1886,
+  "depth": 1932,
+  "price": 74.82,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d297"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d125"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2109,
+  "height": 2178,
+  "depth": 1773,
+  "price": 191.97,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2af"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d126"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1177,
+  "height": 1790,
+  "depth": 2067,
+  "price": 36.85,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2bd"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d127"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1161,
+  "height": 828,
+  "depth": 2060,
+  "price": 236.34,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d179"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d128"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1692,
+  "height": 1515,
+  "depth": 1900,
+  "price": 147.21,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d288"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d129"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1773,
+  "height": 1538,
+  "depth": 1653,
+  "price": 154.65,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12a"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1798,
+  "height": 1485,
+  "depth": 1788,
+  "price": 69.68,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d9"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12b"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1929,
+  "height": 1800,
+  "depth": 842,
+  "price": 235.74,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d277"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12c"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 897,
+  "height": 1555,
+  "depth": 1002,
+  "price": 175.68,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d101"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12d"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1482,
+  "height": 1718,
+  "depth": 1993,
+  "price": 66.6,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19e"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12e"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1653,
+  "height": 2070,
+  "depth": 2081,
+  "price": 97.5,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d206"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d12f"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 999,
+  "height": 1863,
+  "depth": 1847,
+  "price": 246.93,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d280"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d130"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1095,
+  "height": 2098,
+  "depth": 1348,
+  "price": 52.26,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d6"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d131"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1533,
+  "height": 1770,
+  "depth": 1810,
+  "price": 173.22,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cf"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d132"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2088,
+  "height": 1586,
+  "depth": 1505,
+  "price": 26.55,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e9"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d133"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1234,
+  "height": 1212,
+  "depth": 2145,
+  "price": 201.98,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d251"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d134"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1012,
+  "height": 2004,
+  "depth": 1898,
+  "price": 96.7,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ac"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d135"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1026,
+  "height": 1182,
+  "depth": 1237,
+  "price": 248.8,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11c"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d136"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1351,
+  "height": 1694,
+  "depth": 1463,
+  "price": 52.94,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d206"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d137"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1894,
+  "height": 1058,
+  "depth": 2004,
+  "price": 149.21,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d273"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d138"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1797,
+  "height": 1132,
+  "depth": 1555,
+  "price": 141.57,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11a"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d139"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1469,
+  "height": 1378,
+  "depth": 1163,
+  "price": 67.75,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d284"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13a"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1333,
+  "height": 1046,
+  "depth": 1011,
+  "price": 25.63,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d247"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13b"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2103,
+  "height": 934,
+  "depth": 1588,
+  "price": 40.92,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e5"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13c"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1702,
+  "height": 1923,
+  "depth": 839,
+  "price": 56.13,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d10f"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13d"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2134,
+  "height": 1878,
+  "depth": 1584,
+  "price": 43.1,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d29d"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13e"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1713,
+  "height": 1161,
+  "depth": 1631,
+  "price": 152.64,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d227"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d13f"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2058,
+  "height": 1105,
+  "depth": 1758,
+  "price": 127.16,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a1"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d140"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1338,
+  "height": 1259,
+  "depth": 1142,
+  "price": 212.6,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d184"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d141"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1243,
+  "height": 952,
+  "depth": 882,
+  "price": 184.45,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d299"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d142"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1228,
+  "height": 2087,
+  "depth": 1853,
+  "price": 27.54,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22c"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d143"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2063,
+  "height": 2153,
+  "depth": 879,
+  "price": 42.16,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d249"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d144"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1721,
+  "height": 1377,
+  "depth": 1011,
+  "price": 182.56,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15f"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d145"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1259,
+  "height": 1878,
+  "depth": 857,
+  "price": 84.58,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d170"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d146"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1346,
+  "height": 1922,
+  "depth": 2178,
+  "price": 113.44,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a9"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d147"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1341,
+  "height": 831,
+  "depth": 1477,
+  "price": 172.33,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d137"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d148"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1544,
+  "height": 1049,
+  "depth": 1594,
+  "price": 54.42,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d294"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d149"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1103,
+  "height": 1158,
+  "depth": 1301,
+  "price": 91.4,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d20c"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14a"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1793,
+  "height": 1824,
+  "depth": 1020,
+  "price": 165.89,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d133"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14b"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1223,
+  "height": 1567,
+  "depth": 2175,
+  "price": 201.92,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d264"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14c"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1336,
+  "height": 905,
+  "depth": 1363,
+  "price": 141.82,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d282"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14d"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 960,
+  "height": 2190,
+  "depth": 1751,
+  "price": 81.87,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b7"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14e"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1832,
+  "height": 1118,
+  "depth": 1408,
+  "price": 171.02,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cf"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d14f"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1903,
+  "height": 943,
+  "depth": 2116,
+  "price": 180.67,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d183"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d150"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1906,
+  "height": 1501,
+  "depth": 1872,
+  "price": 189.54,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d20e"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d151"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1078,
+  "height": 2135,
+  "depth": 1526,
+  "price": 92.56,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d229"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d152"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1852,
+  "height": 842,
+  "depth": 1035,
+  "price": 36.63,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23f"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d153"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 876,
+  "height": 1305,
+  "depth": 1049,
+  "price": 202.85,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d132"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d154"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1570,
+  "height": 2193,
+  "depth": 1215,
+  "price": 44.61,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d21c"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d155"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2032,
+  "height": 837,
+  "depth": 969,
+  "price": 194.46,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d156"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2086,
+  "height": 937,
+  "depth": 2082,
+  "price": 132.76,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d212"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d157"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1235,
+  "height": 904,
+  "depth": 1657,
+  "price": 74.54,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d194"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d158"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1335,
+  "height": 1384,
+  "depth": 1852,
+  "price": 112.86,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1fb"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d159"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 833,
+  "height": 1975,
+  "depth": 1742,
+  "price": 70.14,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d14b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15a"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1854,
+  "height": 850,
+  "depth": 1283,
+  "price": 212.94,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d203"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15b"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1658,
+  "height": 1981,
+  "depth": 1517,
+  "price": 70.77,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f4"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15c"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2072,
+  "height": 1425,
+  "depth": 1108,
+  "price": 149.77,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d106"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15d"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2079,
+  "height": 1766,
+  "depth": 1584,
+  "price": 124.11,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d283"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15e"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 986,
+  "height": 1689,
+  "depth": 1544,
+  "price": 200.55,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c5"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d15f"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1700,
+  "height": 1404,
+  "depth": 1545,
+  "price": 129.66,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d160"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1523,
+  "height": 1091,
+  "depth": 1289,
+  "price": 70.6,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a6"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d161"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1668,
+  "height": 1019,
+  "depth": 1148,
+  "price": 173.61,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d175"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d162"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 989,
+  "height": 868,
+  "depth": 922,
+  "price": 60.33,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d226"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d163"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1834,
+  "height": 2119,
+  "depth": 2140,
+  "price": 172.05,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d149"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d164"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1391,
+  "height": 2090,
+  "depth": 1807,
+  "price": 74.96,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17a"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d165"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 2172,
+  "height": 1492,
+  "depth": 2061,
+  "price": 57.08,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d26e"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d166"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 960,
+  "height": 1395,
+  "depth": 1935,
+  "price": 105.88,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2da"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d167"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1564,
+  "height": 939,
+  "depth": 2153,
+  "price": 237.4,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d6"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d168"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 2036,
+  "height": 1744,
+  "depth": 1890,
+  "price": 22.17,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22c"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d169"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2086,
+  "height": 1357,
+  "depth": 1066,
+  "price": 153.77,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d152"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16a"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2198,
+  "height": 1427,
+  "depth": 894,
+  "price": 73.71,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15d"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16b"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 977,
+  "height": 1374,
+  "depth": 2070,
+  "price": 141.5,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d146"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16c"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2099,
+  "height": 2046,
+  "depth": 1157,
+  "price": 173.79,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d2"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16d"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1749,
+  "height": 2125,
+  "depth": 1027,
+  "price": 167.73,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a3"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16e"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 889,
+  "height": 1599,
+  "depth": 1541,
+  "price": 164.23,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d155"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d16f"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1031,
+  "height": 1872,
+  "depth": 2104,
+  "price": 48.48,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c0"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d170"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1114,
+  "height": 1179,
+  "depth": 1426,
+  "price": 135.59,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19a"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d171"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 946,
+  "height": 1891,
+  "depth": 1223,
+  "price": 23.39,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d27a"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d172"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1930,
+  "height": 1229,
+  "depth": 1808,
+  "price": 189.15,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11d"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d173"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1676,
+  "height": 2089,
+  "depth": 1729,
+  "price": 173.81,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d133"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d174"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1279,
+  "height": 1354,
+  "depth": 1908,
+  "price": 70.27,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d168"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d175"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1340,
+  "height": 1301,
+  "depth": 2183,
+  "price": 183.04,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a8"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d176"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1458,
+  "height": 2058,
+  "depth": 1968,
+  "price": 169.48,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16b"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d177"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1542,
+  "height": 1526,
+  "depth": 1358,
+  "price": 125.88,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a5"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d178"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1656,
+  "height": 2161,
+  "depth": 1336,
+  "price": 114.1,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d143"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d179"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2110,
+  "height": 2010,
+  "depth": 1453,
+  "price": 186.43,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e2"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17a"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1785,
+  "height": 1173,
+  "depth": 801,
+  "price": 51.54,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d245"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17b"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2180,
+  "height": 1038,
+  "depth": 1316,
+  "price": 85.09,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d144"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17c"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2057,
+  "height": 1004,
+  "depth": 1768,
+  "price": 231.7,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17e"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17d"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 2122,
+  "height": 1850,
+  "depth": 2004,
+  "price": 75.87,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16b"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17e"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2173,
+  "height": 1788,
+  "depth": 1517,
+  "price": 59.07,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d226"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d17f"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1500,
+  "height": 2105,
+  "depth": 1821,
+  "price": 203.94,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d12a"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d180"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2036,
+  "height": 2093,
+  "depth": 1949,
+  "price": 83.01,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ea"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d181"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1644,
+  "height": 1100,
+  "depth": 1064,
+  "price": 119.38,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d170"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d182"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1557,
+  "height": 1422,
+  "depth": 1675,
+  "price": 103.63,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e7"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d183"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1675,
+  "height": 863,
+  "depth": 1732,
+  "price": 195.12,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d28f"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d184"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1277,
+  "height": 2036,
+  "depth": 1801,
+  "price": 185.81,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1df"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d185"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1574,
+  "height": 963,
+  "depth": 986,
+  "price": 174.57,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d252"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d186"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1610,
+  "height": 1141,
+  "depth": 1663,
+  "price": 121.13,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d235"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d187"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1821,
+  "height": 1119,
+  "depth": 1223,
+  "price": 78.76,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2bf"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d188"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2187,
+  "height": 1781,
+  "depth": 1064,
+  "price": 108.88,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d29e"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d189"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1616,
+  "height": 1558,
+  "depth": 2034,
+  "price": 170.15,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1db"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18a"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1873,
+  "height": 1936,
+  "depth": 1090,
+  "price": 80.6,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d9"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18b"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2007,
+  "height": 2052,
+  "depth": 1322,
+  "price": 76.01,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e1"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18c"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1343,
+  "height": 1122,
+  "depth": 1534,
+  "price": 104.58,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d12b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18d"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2146,
+  "height": 890,
+  "depth": 1426,
+  "price": 61.53,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d250"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18e"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2092,
+  "height": 1903,
+  "depth": 1530,
+  "price": 36.91,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15f"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d18f"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1458,
+  "height": 1876,
+  "depth": 1164,
+  "price": 128.93,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17b"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d190"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1530,
+  "height": 1510,
+  "depth": 1877,
+  "price": 24.75,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a4"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1525,
+  "height": 1110,
+  "depth": 1802,
+  "price": 200.15,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b0"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d192"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1869,
+  "height": 1651,
+  "depth": 1010,
+  "price": 60.88,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d243"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d193"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1411,
+  "height": 1349,
+  "depth": 2074,
+  "price": 125,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18b"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d194"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1847,
+  "height": 1615,
+  "depth": 1524,
+  "price": 102.55,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2cf"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d195"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1617,
+  "height": 1165,
+  "depth": 1727,
+  "price": 174.78,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d239"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d196"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2017,
+  "height": 1444,
+  "depth": 1330,
+  "price": 67.35,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d24a"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d197"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 896,
+  "height": 1681,
+  "depth": 2069,
+  "price": 109.44,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d29b"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d198"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1091,
+  "height": 1020,
+  "depth": 1086,
+  "price": 161.47,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d150"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d199"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1374,
+  "height": 1581,
+  "depth": 1370,
+  "price": 161.93,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d159"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19a"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1285,
+  "height": 840,
+  "depth": 1820,
+  "price": 201.93,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cd"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19b"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 986,
+  "height": 1206,
+  "depth": 1927,
+  "price": 139.59,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19c"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 883,
+  "height": 1969,
+  "depth": 818,
+  "price": 89.32,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d9"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19d"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 2181,
+  "height": 1220,
+  "depth": 2194,
+  "price": 244.29,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f7"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19e"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1407,
+  "height": 1240,
+  "depth": 1248,
+  "price": 78.81,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d203"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d19f"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1113,
+  "height": 1658,
+  "depth": 2173,
+  "price": 67.78,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d146"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a0"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1102,
+  "height": 854,
+  "depth": 1965,
+  "price": 139.03,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a4"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a1"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2182,
+  "height": 924,
+  "depth": 913,
+  "price": 112.03,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1da"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a2"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1275,
+  "height": 1089,
+  "depth": 1589,
+  "price": 28.95,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d169"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a3"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1188,
+  "height": 1833,
+  "depth": 1279,
+  "price": 163.37,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b8"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a4"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1937,
+  "height": 1691,
+  "depth": 1886,
+  "price": 203.79,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2be"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a5"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1425,
+  "height": 1769,
+  "depth": 922,
+  "price": 161.75,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d141"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a6"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1843,
+  "height": 907,
+  "depth": 1040,
+  "price": 55.62,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a7"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a7"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1647,
+  "height": 1598,
+  "depth": 1546,
+  "price": 91.65,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d1"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a8"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1952,
+  "height": 1500,
+  "depth": 2014,
+  "price": 158,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c9"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1a9"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1427,
+  "height": 1560,
+  "depth": 2046,
+  "price": 179.29,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19e"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1aa"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1706,
+  "height": 1261,
+  "depth": 2061,
+  "price": 202.66,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d268"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ab"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1572,
+  "height": 1731,
+  "depth": 2183,
+  "price": 115.95,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d234"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ac"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1892,
+  "height": 2039,
+  "depth": 1121,
+  "price": 231.9,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c5"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ad"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1118,
+  "height": 1578,
+  "depth": 1170,
+  "price": 48.56,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d297"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ae"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2079,
+  "height": 1386,
+  "depth": 1446,
+  "price": 152.95,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1db"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1af"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1799,
+  "height": 1770,
+  "depth": 985,
+  "price": 219,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d181"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b0"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1011,
+  "height": 1357,
+  "depth": 913,
+  "price": 40.95,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ab"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b1"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1802,
+  "height": 2192,
+  "depth": 930,
+  "price": 132.64,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d251"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b2"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1317,
+  "height": 1434,
+  "depth": 1978,
+  "price": 116.53,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d9"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b3"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1323,
+  "height": 1016,
+  "depth": 1375,
+  "price": 55.48,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d8"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b4"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1547,
+  "height": 1731,
+  "depth": 1802,
+  "price": 143.29,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e4"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b5"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 990,
+  "height": 1162,
+  "depth": 2073,
+  "price": 147.88,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ae"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b6"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1697,
+  "height": 868,
+  "depth": 1915,
+  "price": 191.53,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ac"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b7"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1169,
+  "height": 1639,
+  "depth": 832,
+  "price": 94.18,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e9"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b8"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1655,
+  "height": 1256,
+  "depth": 2111,
+  "price": 249.31,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e5"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1b9"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2119,
+  "height": 2127,
+  "depth": 2199,
+  "price": 213.4,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ef"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ba"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 912,
+  "height": 1151,
+  "depth": 1610,
+  "price": 20.87,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a7"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1bb"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1230,
+  "height": 1646,
+  "depth": 2113,
+  "price": 242.63,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c3"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1bc"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1612,
+  "height": 1672,
+  "depth": 2134,
+  "price": 214.35,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d263"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1675,
+  "height": 1947,
+  "depth": 2067,
+  "price": 236.06,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22e"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1be"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1272,
+  "height": 1945,
+  "depth": 892,
+  "price": 249.57,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d207"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1bf"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1739,
+  "height": 1374,
+  "depth": 1790,
+  "price": 233.94,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17d"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c0"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2028,
+  "height": 1874,
+  "depth": 1872,
+  "price": 140.62,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d6"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c1"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1816,
+  "height": 1638,
+  "depth": 985,
+  "price": 50.79,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23a"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c2"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1479,
+  "height": 2035,
+  "depth": 1959,
+  "price": 200.64,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d297"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c3"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1490,
+  "height": 2127,
+  "depth": 1908,
+  "price": 141.82,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d244"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c4"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1677,
+  "height": 1096,
+  "depth": 2076,
+  "price": 30.57,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d106"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c5"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1435,
+  "height": 1913,
+  "depth": 1907,
+  "price": 49.59,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ab"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c6"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2005,
+  "height": 1126,
+  "depth": 2183,
+  "price": 149.65,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15d"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c7"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 814,
+  "height": 1266,
+  "depth": 2001,
+  "price": 74.43,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d6"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c8"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2109,
+  "height": 1684,
+  "depth": 1172,
+  "price": 233.53,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d122"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1c9"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1167,
+  "height": 1159,
+  "depth": 879,
+  "price": 93.6,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ca"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 891,
+  "height": 1200,
+  "depth": 1563,
+  "price": 82.75,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b4"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1cb"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1122,
+  "height": 2102,
+  "depth": 1505,
+  "price": 181.7,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d265"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1cc"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1364,
+  "height": 1115,
+  "depth": 1891,
+  "price": 44.39,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d20b"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1cd"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1162,
+  "height": 1161,
+  "depth": 1399,
+  "price": 84.3,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b5"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ce"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1434,
+  "height": 1372,
+  "depth": 1859,
+  "price": 227.77,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d24f"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1cf"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 819,
+  "height": 1514,
+  "depth": 1673,
+  "price": 206.37,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22b"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d0"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1651,
+  "height": 1799,
+  "depth": 2167,
+  "price": 227.64,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e6"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d1"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1748,
+  "height": 1216,
+  "depth": 1927,
+  "price": 126.21,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d13f"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d2"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1802,
+  "height": 2117,
+  "depth": 1824,
+  "price": 61.22,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d227"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d3"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1278,
+  "height": 1217,
+  "depth": 1064,
+  "price": 244.89,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d197"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d4"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1262,
+  "height": 1190,
+  "depth": 872,
+  "price": 136.92,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d135"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d5"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1430,
+  "height": 1912,
+  "depth": 1944,
+  "price": 232.94,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cd"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d6"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1165,
+  "height": 1570,
+  "depth": 1552,
+  "price": 159.36,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15a"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d7"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1830,
+  "height": 1221,
+  "depth": 1522,
+  "price": 221.54,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d122"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d8"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1442,
+  "height": 924,
+  "depth": 1022,
+  "price": 136.83,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d101"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1d9"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1015,
+  "height": 1155,
+  "depth": 1312,
+  "price": 179.92,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d217"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1da"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1950,
+  "height": 1535,
+  "depth": 1490,
+  "price": 33.8,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d273"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1db"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1048,
+  "height": 1078,
+  "depth": 968,
+  "price": 243.72,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d298"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1dc"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1832,
+  "height": 2049,
+  "depth": 1153,
+  "price": 139.28,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b3"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1dd"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1214,
+  "height": 1411,
+  "depth": 800,
+  "price": 44.74,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d188"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1de"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 870,
+  "height": 2134,
+  "depth": 1979,
+  "price": 125.85,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16f"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1df"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1468,
+  "height": 1761,
+  "depth": 1953,
+  "price": 115.02,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d102"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e0"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1819,
+  "height": 2068,
+  "depth": 1337,
+  "price": 225.03,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d106"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e1"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1201,
+  "height": 1054,
+  "depth": 881,
+  "price": 215.07,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d214"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e2"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 819,
+  "height": 1567,
+  "depth": 1565,
+  "price": 240.47,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d26c"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e3"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1739,
+  "height": 1377,
+  "depth": 850,
+  "price": 202.17,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d168"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e4"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1564,
+  "height": 2200,
+  "depth": 1328,
+  "price": 162.41,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d142"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e5"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1468,
+  "height": 985,
+  "depth": 1068,
+  "price": 50.17,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ad"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e6"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1356,
+  "height": 1644,
+  "depth": 1903,
+  "price": 142.49,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c9"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e7"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1752,
+  "height": 2064,
+  "depth": 939,
+  "price": 156.21,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d294"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e8"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1786,
+  "height": 1895,
+  "depth": 1867,
+  "price": 225.64,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d170"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1e9"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1342,
+  "height": 950,
+  "depth": 2174,
+  "price": 234.03,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2f4"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ea"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1227,
+  "height": 1255,
+  "depth": 849,
+  "price": 227.76,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d7"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1eb"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1830,
+  "height": 874,
+  "depth": 913,
+  "price": 206.69,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d185"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ec"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2070,
+  "height": 1471,
+  "depth": 1203,
+  "price": 242.29,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b0"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ed"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1894,
+  "height": 1264,
+  "depth": 2122,
+  "price": 87.53,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d10e"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ee"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 876,
+  "height": 1787,
+  "depth": 868,
+  "price": 66.52,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d135"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ef"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1694,
+  "height": 1347,
+  "depth": 2067,
+  "price": 29.54,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d135"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f0"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1824,
+  "height": 1944,
+  "depth": 1361,
+  "price": 105.53,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1eb"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f1"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1869,
+  "height": 1562,
+  "depth": 1369,
+  "price": 57.09,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d0"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f2"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1674,
+  "height": 800,
+  "depth": 1359,
+  "price": 198.27,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11a"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f3"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1728,
+  "height": 848,
+  "depth": 1719,
+  "price": 164.08,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d295"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f4"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1703,
+  "height": 1557,
+  "depth": 1745,
+  "price": 249.44,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e3"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f5"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1873,
+  "height": 1736,
+  "depth": 1179,
+  "price": 101.23,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d222"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f6"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1665,
+  "height": 2054,
+  "depth": 1945,
+  "price": 36.7,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a4"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f7"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2026,
+  "height": 1160,
+  "depth": 855,
+  "price": 23.98,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d199"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f8"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1239,
+  "height": 2187,
+  "depth": 1401,
+  "price": 62.29,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23e"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1f9"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1137,
+  "height": 1837,
+  "depth": 1876,
+  "price": 128.81,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d25e"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1fa"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1512,
+  "height": 1517,
+  "depth": 1354,
+  "price": 99.41,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18a"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1fb"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1182,
+  "height": 1527,
+  "depth": 928,
+  "price": 132.83,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d7"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1fc"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2108,
+  "height": 1860,
+  "depth": 1838,
+  "price": 211.77,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22c"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1fd"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1124,
+  "height": 1468,
+  "depth": 1296,
+  "price": 115.5,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d0"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1fe"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 944,
+  "height": 2185,
+  "depth": 989,
+  "price": 139.96,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1dd"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d1ff"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1361,
+  "height": 1313,
+  "depth": 844,
+  "price": 181.19,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b6"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d200"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 894,
+  "height": 1219,
+  "depth": 2077,
+  "price": 186.55,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a5"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d201"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 976,
+  "height": 1535,
+  "depth": 2100,
+  "price": 125.74,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ac"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d202"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1214,
+  "height": 1161,
+  "depth": 1117,
+  "price": 32.69,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bb"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d203"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 878,
+  "height": 1063,
+  "depth": 1626,
+  "price": 128.63,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a9"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d204"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1714,
+  "height": 938,
+  "depth": 1050,
+  "price": 86.76,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d233"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d205"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 847,
+  "height": 1250,
+  "depth": 841,
+  "price": 143.32,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d281"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d206"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2018,
+  "height": 1238,
+  "depth": 1577,
+  "price": 227.06,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d24c"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d207"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1380,
+  "height": 1299,
+  "depth": 1452,
+  "price": 191.16,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d183"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d208"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 2089,
+  "height": 1434,
+  "depth": 1526,
+  "price": 212.01,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cc"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d209"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1592,
+  "height": 1592,
+  "depth": 1908,
+  "price": 74.45,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d174"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20a"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1643,
+  "height": 1049,
+  "depth": 866,
+  "price": 56.38,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cf"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20b"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 971,
+  "height": 1769,
+  "depth": 918,
+  "price": 124.89,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d122"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20c"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 963,
+  "height": 1176,
+  "depth": 2061,
+  "price": 219.08,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1af"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20d"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1917,
+  "height": 2042,
+  "depth": 2188,
+  "price": 141.19,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d183"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20e"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1416,
+  "height": 942,
+  "depth": 1674,
+  "price": 83.18,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18b"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d20f"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1074,
+  "height": 1942,
+  "depth": 857,
+  "price": 109.58,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a4"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d210"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1176,
+  "height": 972,
+  "depth": 1140,
+  "price": 80.97,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d112"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d211"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1824,
+  "height": 900,
+  "depth": 1673,
+  "price": 147.5,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d179"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d212"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1578,
+  "height": 1056,
+  "depth": 977,
+  "price": 187.99,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d219"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d213"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1662,
+  "height": 1785,
+  "depth": 1913,
+  "price": 176.68,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d278"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d214"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1779,
+  "height": 1654,
+  "depth": 865,
+  "price": 22.9,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d147"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d215"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1310,
+  "height": 1451,
+  "depth": 2033,
+  "price": 245.92,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1af"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d216"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2173,
+  "height": 1881,
+  "depth": 1924,
+  "price": 176.82,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2f4"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d217"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1244,
+  "height": 1367,
+  "depth": 1090,
+  "price": 208.8,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17d"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d218"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1848,
+  "height": 1128,
+  "depth": 1813,
+  "price": 92.4,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d133"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d219"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1602,
+  "height": 1068,
+  "depth": 1088,
+  "price": 41.12,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d233"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21a"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1057,
+  "height": 2061,
+  "depth": 1054,
+  "price": 218.5,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d254"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21b"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 898,
+  "height": 822,
+  "depth": 1148,
+  "price": 205.63,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22e"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21c"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 2140,
+  "height": 2181,
+  "depth": 1016,
+  "price": 170.17,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d229"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21d"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1053,
+  "height": 1578,
+  "depth": 2152,
+  "price": 117.39,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d146"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21e"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 2179,
+  "height": 1185,
+  "depth": 2024,
+  "price": 158.3,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f1"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d21f"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1376,
+  "height": 1078,
+  "depth": 1394,
+  "price": 231.21,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ee"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d220"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1125,
+  "height": 1002,
+  "depth": 1375,
+  "price": 129.64,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b3"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d221"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1784,
+  "height": 951,
+  "depth": 1123,
+  "price": 233.13,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18a"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d222"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1488,
+  "height": 972,
+  "depth": 850,
+  "price": 102.83,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ea"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d223"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1100,
+  "height": 1189,
+  "depth": 1793,
+  "price": 247.11,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d190"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d224"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1806,
+  "height": 804,
+  "depth": 2077,
+  "price": 133.47,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2cb"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d225"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2033,
+  "height": 1657,
+  "depth": 2012,
+  "price": 201.87,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d15c"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d226"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1232,
+  "height": 2102,
+  "depth": 1722,
+  "price": 113.49,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d189"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d227"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1891,
+  "height": 1417,
+  "depth": 896,
+  "price": 242.09,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2df"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d228"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 2188,
+  "height": 1271,
+  "depth": 1525,
+  "price": 153.72,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c7"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d229"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1957,
+  "height": 1256,
+  "depth": 979,
+  "price": 117.81,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d194"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22a"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 969,
+  "height": 1842,
+  "depth": 1254,
+  "price": 194.65,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d2"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22b"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2145,
+  "height": 1669,
+  "depth": 1770,
+  "price": 196.84,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22c"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1879,
+  "height": 1856,
+  "depth": 1681,
+  "price": 46.65,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d249"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22d"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1293,
+  "height": 1530,
+  "depth": 1002,
+  "price": 223.37,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d18b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22e"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1398,
+  "height": 1085,
+  "depth": 1997,
+  "price": 146.75,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d286"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d22f"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1591,
+  "height": 974,
+  "depth": 2020,
+  "price": 43.06,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d4"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d230"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1455,
+  "height": 1131,
+  "depth": 1196,
+  "price": 163.54,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ef"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d231"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1802,
+  "height": 2051,
+  "depth": 2171,
+  "price": 98.49,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d241"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d232"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1713,
+  "height": 1150,
+  "depth": 1521,
+  "price": 208.31,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d13d"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d233"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1423,
+  "height": 1726,
+  "depth": 1245,
+  "price": 213.63,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a4"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d234"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2003,
+  "height": 986,
+  "depth": 1795,
+  "price": 165.92,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d198"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d235"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1784,
+  "height": 1557,
+  "depth": 2016,
+  "price": 67.68,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17e"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d236"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1237,
+  "height": 1859,
+  "depth": 822,
+  "price": 115.24,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e4"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d237"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1105,
+  "height": 2199,
+  "depth": 1665,
+  "price": 232.79,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ab"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d238"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1009,
+  "height": 1626,
+  "depth": 1048,
+  "price": 188.28,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d202"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d239"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1026,
+  "height": 1528,
+  "depth": 2063,
+  "price": 128.83,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b3"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23a"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1688,
+  "height": 2173,
+  "depth": 1414,
+  "price": 39.79,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d7"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23b"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1516,
+  "height": 1443,
+  "depth": 810,
+  "price": 165.14,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d27c"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23c"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1798,
+  "height": 836,
+  "depth": 988,
+  "price": 172.47,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23d"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1636,
+  "height": 1187,
+  "depth": 1472,
+  "price": 27.72,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ce"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23e"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2168,
+  "height": 1612,
+  "depth": 2017,
+  "price": 40.79,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b9"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d23f"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1061,
+  "height": 1899,
+  "depth": 1677,
+  "price": 249.17,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d194"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d240"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1410,
+  "height": 1724,
+  "depth": 871,
+  "price": 193.47,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d17f"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d241"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 921,
+  "height": 1869,
+  "depth": 1655,
+  "price": 167.84,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d217"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d242"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1337,
+  "height": 1391,
+  "depth": 1365,
+  "price": 30.46,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d110"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d243"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1223,
+  "height": 1727,
+  "depth": 1878,
+  "price": 164.44,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d21d"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d244"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 961,
+  "height": 1729,
+  "depth": 1333,
+  "price": 150.2,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d235"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d245"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1040,
+  "height": 1228,
+  "depth": 1641,
+  "price": 219.04,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d154"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d246"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1943,
+  "height": 1320,
+  "depth": 1661,
+  "price": 107.54,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a9"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d247"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1109,
+  "height": 1322,
+  "depth": 982,
+  "price": 116.79,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d283"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d248"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1505,
+  "height": 2121,
+  "depth": 1087,
+  "price": 222.2,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23e"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d249"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1394,
+  "height": 1991,
+  "depth": 1256,
+  "price": 174.52,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d289"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24a"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1896,
+  "height": 1520,
+  "depth": 2111,
+  "price": 163.47,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d121"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24b"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1464,
+  "height": 1917,
+  "depth": 1353,
+  "price": 111.82,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16c"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24c"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1118,
+  "height": 901,
+  "depth": 1137,
+  "price": 37.08,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d274"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24d"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1678,
+  "height": 1504,
+  "depth": 2076,
+  "price": 81.54,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b2"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24e"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1072,
+  "height": 1797,
+  "depth": 1059,
+  "price": 248.23,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d274"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d24f"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1912,
+  "height": 899,
+  "depth": 2079,
+  "price": 77.61,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2bb"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d250"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1563,
+  "height": 2175,
+  "depth": 1488,
+  "price": 244.84,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d127"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d251"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1926,
+  "height": 912,
+  "depth": 1612,
+  "price": 147.36,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d266"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d252"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1633,
+  "height": 855,
+  "depth": 2049,
+  "price": 145.52,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d24b"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d253"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1542,
+  "height": 1276,
+  "depth": 1297,
+  "price": 126.78,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19d"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d254"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1073,
+  "height": 2095,
+  "depth": 1534,
+  "price": 194.29,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cc"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d255"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1891,
+  "height": 946,
+  "depth": 825,
+  "price": 45.01,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2cd"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d256"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 875,
+  "height": 1916,
+  "depth": 2150,
+  "price": 179.22,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d116"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d257"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1232,
+  "height": 1904,
+  "depth": 1759,
+  "price": 116.85,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19c"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d258"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2022,
+  "height": 1799,
+  "depth": 1947,
+  "price": 170.17,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2cc"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d259"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1283,
+  "height": 1564,
+  "depth": 1710,
+  "price": 97.3,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cc"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25a"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1672,
+  "height": 1373,
+  "depth": 1101,
+  "price": 76.96,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c2"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25b"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1480,
+  "height": 1658,
+  "depth": 1972,
+  "price": 232.35,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d12e"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25c"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1710,
+  "height": 1093,
+  "depth": 1616,
+  "price": 50.89,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25d"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2156,
+  "height": 1992,
+  "depth": 1389,
+  "price": 175.08,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d26c"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25e"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 888,
+  "height": 1240,
+  "depth": 2144,
+  "price": 140.41,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d180"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d25f"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 865,
+  "height": 1228,
+  "depth": 1097,
+  "price": 127.26,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d197"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d260"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 978,
+  "height": 1668,
+  "depth": 1618,
+  "price": 65.23,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d13b"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d261"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1903,
+  "height": 1969,
+  "depth": 1336,
+  "price": 34.58,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d167"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d262"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1032,
+  "height": 1317,
+  "depth": 1529,
+  "price": 239.65,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d202"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d263"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1197,
+  "height": 1361,
+  "depth": 1557,
+  "price": 202.64,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d287"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d264"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1723,
+  "height": 1748,
+  "depth": 1470,
+  "price": 229.75,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d10b"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d265"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1627,
+  "height": 1740,
+  "depth": 1778,
+  "price": 99.6,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d114"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d266"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2123,
+  "height": 1267,
+  "depth": 1885,
+  "price": 180.17,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d13d"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d267"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1204,
+  "height": 1774,
+  "depth": 985,
+  "price": 28.13,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d229"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d268"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 880,
+  "height": 1856,
+  "depth": 1088,
+  "price": 181.56,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ef"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d269"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1682,
+  "height": 1111,
+  "depth": 1780,
+  "price": 76.61,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d112"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26a"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1811,
+  "height": 1246,
+  "depth": 925,
+  "price": 56.74,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d25a"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26b"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1642,
+  "height": 1583,
+  "depth": 1988,
+  "price": 75.19,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11c"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26c"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1327,
+  "height": 1652,
+  "depth": 1845,
+  "price": 72.28,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e6"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26d"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1039,
+  "height": 1820,
+  "depth": 2072,
+  "price": 28.62,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e8"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26e"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1359,
+  "height": 1236,
+  "depth": 2168,
+  "price": 153.97,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d283"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d26f"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1470,
+  "height": 1029,
+  "depth": 1686,
+  "price": 237.55,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d157"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d270"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 944,
+  "height": 2038,
+  "depth": 1813,
+  "price": 97.49,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23e"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d271"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1884,
+  "height": 1773,
+  "depth": 1559,
+  "price": 87.07,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ce"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d272"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1100,
+  "height": 1668,
+  "depth": 1012,
+  "price": 238.33,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d8"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d273"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 865,
+  "height": 2064,
+  "depth": 1707,
+  "price": 219.27,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d241"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d274"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1839,
+  "height": 1424,
+  "depth": 1279,
+  "price": 22.12,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d9"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d275"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2085,
+  "height": 1953,
+  "depth": 1424,
+  "price": 102.39,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d158"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d276"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1049,
+  "height": 1872,
+  "depth": 896,
+  "price": 31.32,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d277"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d277"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1689,
+  "height": 1216,
+  "depth": 1269,
+  "price": 242.08,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e0"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d278"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1387,
+  "height": 1398,
+  "depth": 2128,
+  "price": 162.09,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2be"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d279"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2156,
+  "height": 2128,
+  "depth": 1274,
+  "price": 32.23,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1fe"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27a"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1807,
+  "height": 1505,
+  "depth": 843,
+  "price": 247.32,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d6"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27b"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1981,
+  "height": 1814,
+  "depth": 1927,
+  "price": 132.58,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2af"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27c"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 874,
+  "height": 1181,
+  "depth": 1720,
+  "price": 145.43,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d248"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27d"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1956,
+  "height": 2034,
+  "depth": 1293,
+  "price": 168.24,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ee"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27e"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1701,
+  "height": 883,
+  "depth": 1073,
+  "price": 39.15,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d264"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d27f"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1818,
+  "height": 1872,
+  "depth": 1631,
+  "price": 104.88,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d271"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d280"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1886,
+  "height": 2099,
+  "depth": 2155,
+  "price": 172.77,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d157"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d281"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 907,
+  "height": 2085,
+  "depth": 1871,
+  "price": 166.34,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ef"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d282"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1692,
+  "height": 1958,
+  "depth": 1417,
+  "price": 84.56,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22c"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d283"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1494,
+  "height": 1019,
+  "depth": 1098,
+  "price": 117.97,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f0"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d284"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1691,
+  "height": 1607,
+  "depth": 2184,
+  "price": 125.85,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e5"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d285"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 2131,
+  "height": 1323,
+  "depth": 2001,
+  "price": 118.28,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d205"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d286"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1414,
+  "height": 1356,
+  "depth": 1401,
+  "price": 91.53,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d165"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d287"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1146,
+  "height": 934,
+  "depth": 1541,
+  "price": 95.35,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d245"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d288"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1262,
+  "height": 2184,
+  "depth": 1657,
+  "price": 148.82,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d153"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d289"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1385,
+  "height": 1106,
+  "depth": 1915,
+  "price": 23.47,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d137"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28a"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1778,
+  "height": 1982,
+  "depth": 828,
+  "price": 24.31,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d14e"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28b"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 2143,
+  "height": 1924,
+  "depth": 1029,
+  "price": 28.53,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23b"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28c"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2118,
+  "height": 1592,
+  "depth": 1231,
+  "price": 201.41,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d111"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28d"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1713,
+  "height": 2139,
+  "depth": 1729,
+  "price": 126.1,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d279"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28e"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1148,
+  "height": 1450,
+  "depth": 1016,
+  "price": 161.65,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bb"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d28f"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1193,
+  "height": 1353,
+  "depth": 1474,
+  "price": 29.43,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d143"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d290"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1233,
+  "height": 1337,
+  "depth": 1841,
+  "price": 164.4,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d291"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1457,
+  "height": 1316,
+  "depth": 1404,
+  "price": 239.11,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19d"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d292"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2090,
+  "height": 969,
+  "depth": 1950,
+  "price": 100.3,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16f"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d293"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1253,
+  "height": 1867,
+  "depth": 1698,
+  "price": 23.19,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e7"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d294"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 905,
+  "height": 1915,
+  "depth": 1212,
+  "price": 45.16,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d151"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d295"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 935,
+  "height": 1205,
+  "depth": 1919,
+  "price": 112.95,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d153"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d296"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1950,
+  "height": 1512,
+  "depth": 1127,
+  "price": 247.73,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d129"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d297"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 869,
+  "height": 1055,
+  "depth": 1558,
+  "price": 86.89,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d132"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d298"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 2020,
+  "height": 2054,
+  "depth": 1429,
+  "price": 141.75,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2f3"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d299"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 806,
+  "height": 1309,
+  "depth": 974,
+  "price": 248.55,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d28e"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29a"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1725,
+  "height": 1358,
+  "depth": 2156,
+  "price": 46.26,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1d2"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29b"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 846,
+  "height": 1691,
+  "depth": 1830,
+  "price": 67.62,
+  "stock": 5,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d186"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29c"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2056,
+  "height": 859,
+  "depth": 1599,
+  "price": 43.54,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d207"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29d"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 831,
+  "height": 1330,
+  "depth": 1891,
+  "price": 53.33,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22d"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29e"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 2134,
+  "height": 1319,
+  "depth": 1319,
+  "price": 131.91,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1da"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d29f"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 2096,
+  "height": 1658,
+  "depth": 1275,
+  "price": 27.94,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a8"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a0"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1159,
+  "height": 862,
+  "depth": 889,
+  "price": 85.84,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d191"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a1"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1767,
+  "height": 2044,
+  "depth": 1280,
+  "price": 45.47,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d11e"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a2"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 842,
+  "height": 1895,
+  "depth": 1668,
+  "price": 33.69,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e8"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a3"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1689,
+  "height": 1779,
+  "depth": 1911,
+  "price": 103.43,
+  "stock": 14,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d19a"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a4"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1962,
+  "height": 1742,
+  "depth": 1928,
+  "price": 126.66,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d127"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a5"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1373,
+  "height": 1139,
+  "depth": 1870,
+  "price": 211.49,
+  "stock": 20,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1aa"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a6"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 2095,
+  "height": 1604,
+  "depth": 2034,
+  "price": 216.95,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a5"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a7"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2024,
+  "height": 1233,
+  "depth": 968,
+  "price": 118.79,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a5"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a8"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2008,
+  "height": 1143,
+  "depth": 1380,
+  "price": 173.28,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d21a"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2a9"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1597,
+  "height": 1482,
+  "depth": 1605,
+  "price": 158.14,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d165"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2aa"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 944,
+  "height": 1882,
+  "depth": 2097,
+  "price": 174.18,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d132"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ab"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 843,
+  "height": 2027,
+  "depth": 1201,
+  "price": 247.01,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d279"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ac"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1924,
+  "height": 1108,
+  "depth": 1246,
+  "price": 44.02,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e0"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ad"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1694,
+  "height": 1225,
+  "depth": 848,
+  "price": 164.5,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d16d"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ae"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 912,
+  "height": 2068,
+  "depth": 1883,
+  "price": 201.66,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d253"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2af"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2150,
+  "height": 2098,
+  "depth": 1501,
+  "price": 50.36,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b2"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b0"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1490,
+  "height": 2122,
+  "depth": 1048,
+  "price": 170.76,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d2"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b1"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 2026,
+  "height": 2089,
+  "depth": 2171,
+  "price": 205.33,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2f1"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b2"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 869,
+  "height": 847,
+  "depth": 1128,
+  "price": 51.83,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d287"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b3"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1003,
+  "height": 2157,
+  "depth": 1763,
+  "price": 237.39,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1da"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b4"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1038,
+  "height": 982,
+  "depth": 2033,
+  "price": 228.28,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d217"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b5"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1717,
+  "height": 1049,
+  "depth": 1162,
+  "price": 20.76,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f8"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b6"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1842,
+  "height": 1354,
+  "depth": 1035,
+  "price": 52.77,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d28c"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b7"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1222,
+  "height": 2058,
+  "depth": 1118,
+  "price": 230.72,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d150"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b8"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1909,
+  "height": 1051,
+  "depth": 1489,
+  "price": 31.27,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d23b"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2b9"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1715,
+  "height": 908,
+  "depth": 1631,
+  "price": 65.5,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b4"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ba"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1644,
+  "height": 1573,
+  "depth": 1311,
+  "price": 179.45,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d159"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2bb"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1243,
+  "height": 1376,
+  "depth": 1273,
+  "price": 155.86,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2e7"
+  },
+  "color": "Aquamarine"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2bc"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1083,
+  "height": 1573,
+  "depth": 1311,
+  "price": 231.71,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c9"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2bd"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1594,
+  "height": 1978,
+  "depth": 1903,
+  "price": 211.02,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d239"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2be"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 2105,
+  "height": 2143,
+  "depth": 1940,
+  "price": 65.53,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d265"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2bf"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 963,
+  "height": 1763,
+  "depth": 1799,
+  "price": 53.37,
+  "stock": 1,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d166"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c0"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1131,
+  "height": 1388,
+  "depth": 1791,
+  "price": 197.63,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d290"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c1"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1723,
+  "height": 950,
+  "depth": 995,
+  "price": 147.93,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1ef"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c2"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 878,
+  "height": 868,
+  "depth": 1741,
+  "price": 36.67,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d5"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c3"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1041,
+  "height": 1267,
+  "depth": 1088,
+  "price": 97.41,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d2"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c4"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 848,
+  "height": 1853,
+  "depth": 882,
+  "price": 66.77,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d218"
+  },
+  "color": "Goldenrod"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c5"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1360,
+  "height": 1144,
+  "depth": 1402,
+  "price": 201.58,
+  "stock": 19,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2bb"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c6"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1278,
+  "height": 2032,
+  "depth": 2003,
+  "price": 159.64,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d231"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c7"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 2057,
+  "height": 1184,
+  "depth": 1670,
+  "price": 42.86,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d126"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c8"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1855,
+  "height": 1123,
+  "depth": 1184,
+  "price": 60.97,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d26a"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2c9"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 2054,
+  "height": 1205,
+  "depth": 1193,
+  "price": 92.23,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ca"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 838,
+  "height": 1843,
+  "depth": 1248,
+  "price": 144.58,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d22f"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2cb"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1585,
+  "height": 1513,
+  "depth": 2009,
+  "price": 220.29,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c3"
+  },
+  "color": "Puce"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2cc"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1806,
+  "height": 1470,
+  "depth": 1153,
+  "price": 204.32,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d256"
+  },
+  "color": "Pink"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2cd"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 994,
+  "height": 869,
+  "depth": 1612,
+  "price": 166.64,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d111"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ce"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1878,
+  "height": 1468,
+  "depth": 1290,
+  "price": 195.01,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d2"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2cf"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 932,
+  "height": 1948,
+  "depth": 1476,
+  "price": 75.27,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1f7"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d0"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 810,
+  "height": 2080,
+  "depth": 1117,
+  "price": 75.16,
+  "stock": 0,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d256"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d1"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1937,
+  "height": 1703,
+  "depth": 2198,
+  "price": 237.77,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d14d"
+  },
+  "color": "Violet"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d2"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1798,
+  "height": 2200,
+  "depth": 1827,
+  "price": 164.47,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d190"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d3"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1889,
+  "height": 1361,
+  "depth": 834,
+  "price": 75.74,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b4"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d4"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1980,
+  "height": 932,
+  "depth": 1670,
+  "price": 112.68,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d294"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d5"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1051,
+  "height": 1718,
+  "depth": 1581,
+  "price": 187.04,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2c3"
+  },
+  "color": "Yellow"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d6"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1600,
+  "height": 2090,
+  "depth": 2065,
+  "price": 128.78,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d240"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d7"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 906,
+  "height": 1177,
+  "depth": 1631,
+  "price": 169.04,
+  "stock": 7,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d111"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d8"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1347,
+  "height": 1829,
+  "depth": 1819,
+  "price": 124.26,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a5"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2d9"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1502,
+  "height": 1210,
+  "depth": 1089,
+  "price": 148.6,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d247"
+  },
+  "color": "Orange"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2da"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1150,
+  "height": 2056,
+  "depth": 876,
+  "price": 77.9,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ec"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2db"
+  },
+  "category_id": 6,
+  "category": "Bookcase",
+  "width": 1397,
+  "height": 2174,
+  "depth": 2152,
+  "price": 234,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d130"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2dc"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 1934,
+  "height": 1557,
+  "depth": 2103,
+  "price": 167.15,
+  "stock": 23,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d24a"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2dd"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1739,
+  "height": 1172,
+  "depth": 953,
+  "price": 153.95,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d243"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2de"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 861,
+  "height": 2085,
+  "depth": 1509,
+  "price": 114.67,
+  "stock": 4,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d115"
+  },
+  "color": "Purple"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2df"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1096,
+  "height": 1907,
+  "depth": 2059,
+  "price": 151.36,
+  "stock": 9,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d138"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e0"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1331,
+  "height": 1037,
+  "depth": 1468,
+  "price": 98.85,
+  "stock": 6,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bd"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e1"
+  },
+  "category_id": 4,
+  "category": "Desk",
+  "width": 1334,
+  "height": 1729,
+  "depth": 942,
+  "price": 247.31,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e2"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e2"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 925,
+  "height": 1177,
+  "depth": 2112,
+  "price": 82.59,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d186"
+  },
+  "color": "Crimson"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e3"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 1494,
+  "height": 1410,
+  "depth": 2168,
+  "price": 56.2,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d212"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e4"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1927,
+  "height": 2010,
+  "depth": 962,
+  "price": 202.74,
+  "stock": 18,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d196"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e5"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 1102,
+  "height": 1664,
+  "depth": 2145,
+  "price": 40.62,
+  "stock": 22,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1e8"
+  },
+  "color": "Teal"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e6"
+  },
+  "category_id": 3,
+  "category": "Sofa",
+  "width": 824,
+  "height": 1662,
+  "depth": 1051,
+  "price": 230.47,
+  "stock": 11,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1bc"
+  },
+  "color": "Green"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e7"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 1398,
+  "height": 1214,
+  "depth": 1363,
+  "price": 126.95,
+  "stock": 12,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2a6"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e8"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1030,
+  "height": 1139,
+  "depth": 1658,
+  "price": 132.32,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d2"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2e9"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1666,
+  "height": 1863,
+  "depth": 843,
+  "price": 47.71,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2ae"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ea"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1191,
+  "height": 927,
+  "depth": 2107,
+  "price": 64.91,
+  "stock": 8,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1c9"
+  },
+  "color": "Red"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2eb"
+  },
+  "category_id": 7,
+  "category": "Chest",
+  "width": 936,
+  "height": 1166,
+  "depth": 1583,
+  "price": 211.71,
+  "stock": 17,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1b1"
+  },
+  "color": "Fuscia"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ec"
+  },
+  "category_id": 5,
+  "category": "Office Chair",
+  "width": 2100,
+  "height": 1242,
+  "depth": 1879,
+  "price": 159.5,
+  "stock": 15,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d269"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ed"
+  },
+  "category_id": 10,
+  "category": "Shelves",
+  "width": 1863,
+  "height": 1274,
+  "depth": 1955,
+  "price": 123.69,
+  "stock": 16,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1cf"
+  },
+  "color": "Maroon"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ee"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1795,
+  "height": 1966,
+  "depth": 858,
+  "price": 208.52,
+  "stock": 24,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d0"
+  },
+  "color": "Indigo"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2ef"
+  },
+  "category_id": 1,
+  "category": "Chair",
+  "width": 1549,
+  "height": 1550,
+  "depth": 1193,
+  "price": 46.8,
+  "stock": 21,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d1a9"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2f0"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1040,
+  "height": 1852,
+  "depth": 1174,
+  "price": 125.4,
+  "stock": 2,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d20e"
+  },
+  "color": "Mauv"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2f1"
+  },
+  "category_id": 11,
+  "category": "TV Stand",
+  "width": 1063,
+  "height": 869,
+  "depth": 1782,
+  "price": 90.41,
+  "stock": 13,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d242"
+  },
+  "color": "Khaki"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2f2"
+  },
+  "category_id": 2,
+  "category": "Table",
+  "width": 1345,
+  "height": 2175,
+  "depth": 1859,
+  "price": 145.42,
+  "stock": 3,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d240"
+  },
+  "color": "Turquoise"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2f3"
+  },
+  "category_id": 8,
+  "category": "Draws",
+  "width": 803,
+  "height": 1451,
+  "depth": 1951,
+  "price": 240.58,
+  "stock": 25,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2b6"
+  },
+  "color": "Blue"
+},
+{
+  "_id": {
+    "$oid": "674854fb7e01c94ec0f8d2f4"
+  },
+  "category_id": 9,
+  "category": "Wardrobe",
+  "width": 1420,
+  "height": 1044,
+  "depth": 1818,
+  "price": 38.76,
+  "stock": 10,
+  "related": {
+    "$oid": "674854fb7e01c94ec0f8d2d6"
+  },
+  "color": "Indigo"
+}]
