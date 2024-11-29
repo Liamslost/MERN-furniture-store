@@ -4,7 +4,7 @@ const url = "mongodb://root:password@localhost:27017";
 async function getProductById (req, res) {
     try {
       const connection = await MongoClient.connect(url);
-      const productId = new ObjectId(req.query.id);
+      const productId = ObjectId.createFromHexString(req.query.id);
       const filter = {
         _id: productId,
       };
